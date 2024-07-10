@@ -1,8 +1,8 @@
 # ProjectMiniDrive
 
 links nube:
-minidrive.somee.com/swagger/index.html
-http://minidrive.somee.com/
+1. minidrive.somee.com/swagger/index.html
+2. http://minidrive.somee.com/
 
 Descripción:
 Desarrollar una aplicación web que funcione como un mini drive, permitiendo a los usuarios registrarse, 
